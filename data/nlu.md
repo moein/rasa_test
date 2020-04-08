@@ -1,0 +1,101 @@
+- ## intent:faq/bot_intro
+- who are you
+- who
+- who r u
+- about yourself
+- tell me about yourself
+- who is this
+- who am i talking to
+- what’s your name
+- who am i speaking with
+- what’s your name bot
+- whats ur name
+- what are you called?
+- who is talking?
+- who speaks?
+- who talks?
+- who are you and what do you want from me
+- who are you?
+- who is it?
+- who are u?
+- I want to know who you are
+- who are y
+- yes but who are you in your heart
+- are you a bot?
+- who is this?
+- hi! what’s your name?
+- who r you
+- you?
+- what’s it name
+- who r u?
+- tell me ur name
+- tell me your name
+- about ur self
+- who is this
+- who are you
+- who am i talking to
+- what’s your name
+- who am i speaking with
+- who r u
+- what’s your name bot
+- whats ur name
+- what are you called?
+- who are you and what do you want from me
+- who are you?
+- who is it?
+- who are u?
+- are you a bot?
+- who is this?
+- hi! what’s your name?
+- am i talking to bot?
+- give me your introduction.
+- introduce yourself.
+- give me your intro.
+- knock knock!!who is it?
+- tell me about yourself
+## intent:faq/ask_HowDoing
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- how do you do?
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how is your evening
+- How was your day?
+- How’s it going
+- How’s it hanging?
+- how’s life
+- how’s life been treating you?
+- How’s life treating you friend?
+- how’s your day going
+- How’ve you been?
+- I’m fine and you
+- is everything all right
+- Is everything ok?
+- is everything okay
+- what about your day
+- What’s going on?
+- what’s good
+- What’s new?
+- What’s up man
+- What’s up
+- how are you?
+- Do you have a great day?
+- how are you doing today my sweet friend
+- how are you doing?
+- how are u
+- How are you?
